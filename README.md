@@ -1,3 +1,3 @@
 # Python
- ![alt text] (https://github.com/arun-ashok/Python/blob/feb_24/ryan.PNG)
+ ![alt text] (https://github.com/arun-ashok/Python/blob/feb_24/ryan.PNG?raw=true)
  
